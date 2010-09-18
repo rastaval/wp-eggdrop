@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Eggdrop
-Plugin URI: http://www.backie.net
+Plugin URI: http://codeninja.me.uk/plugins/wp-eggdrop/?ref=wp-eggdrop
 Version: 0.1
 Description: Sends data to a eggdrop bot that annouces into IRC.
 Author: Iain Cambridge
